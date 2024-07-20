@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://stecas.github.io/wptest/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stecas.github.io/wptest/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Jan 2024 10:57:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
